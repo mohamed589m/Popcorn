@@ -2,8 +2,6 @@
 
 A modern, interactive movie discovery and rating application built with React. Search for movies, explore detailed information, rate them with a star system, and maintain a personal watched list—all in a sleek, user-friendly interface.
 
-![usePopcorn Screenshot](./public/screenshot.png) <!-- Add a screenshot if available -->
-
 ## 🚀 Features
 
 - **Movie Search**: Instantly search through a vast database of movies using the OMDB API
@@ -38,7 +36,7 @@ A modern, interactive movie discovery and rating application built with React. S
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/usePopcorn.git
+   git clone https://github.com/mohamed589m/Popcorn.git
    cd usePopcorn
    ```
 
